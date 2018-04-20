@@ -5,13 +5,12 @@ require 'solidus_test_extension/version'
 Gem::Specification.new do |s|
   s.name        = 'solidus_test_extension'
   s.version     = SolidusTestExtension::VERSION
-  s.summary     = 'TODO'
-  s.description = 'TODO'
+  s.summary     = 'solidus_test_extension solidus_test_extension solidus_test_extension '
+  s.description = 'solidus_test_extension solidus_test_extension solidus_test_extension '
   s.license     = 'BSD-3-Clause'
 
-  s.author    = 'You'
-  s.email     = 'you@example.com'
-  s.homepage  = 'http://www.example.com'
+  s.author = "Jeffrey Gu"
+  s.homepage  = 'https://github.com/jgujgu/solidus_test_extension/'
 
   s.files        = `git ls-files`.split("\n")
   s.test_files = `git ls-files -- spec/*`.split("\n")
